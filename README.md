@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there I'm Fazeel Ahmed👋
 
+I'm a software engineer based in Pakistan. I enjoy coding and love to solve unique problems. 
 
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
@@ -25,14 +26,16 @@
   <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
   <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
   <code><img title="JQuery" height="25" src="images/jquery-original.svg"></code>
-  <code><img title="Java" height="25" src="images/java-original.svg"></code>
   <code><img title="JSON" height="25" src="images/json.svg"></code>
-  <code><img title="Unity" height="25" src="images/unity3d.svg"></code>
-  <code><img title="Android" height="25" src="images/android.svg"></code>
   <code><img title="GitHub" height="25" src="images/github.svg"></code>
   <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
+  <code><img title="MSSQL" height="25" src="images/mysql.svg"></code>
   <code><img title="npm" height="25" src="images/npm.svg"></code>
-  <code><img title="PHP" height="25" src="images/php.svg"></code>
-  <code><img title="Flask" height="25" src="images/flask.png"></code>
+  <code><img title="kubernetes" height="25" src="images/kubernetes.svg"></code>
+  <code><img title="Docker" height="25" src="images/Docker.svg"></code>
+  <code><img title="Serverless" height="25" src="images/Serverless.svg"></code>
+  <code><img title="AWS" height="25" src="images/Aws.svg"></code>
+  <code><img title="Azure" height="25" src="images/Azure.svg"></code>
+
 </p>
 <hr>
