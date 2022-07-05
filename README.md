@@ -32,10 +32,10 @@ I'm a software engineer based in Pakistan. I enjoy coding and love to solve uniq
   <code><img title="MSSQL" height="25" src="images/mysql.svg"></code>
   <code><img title="npm" height="25" src="images/npm.svg"></code>
   <code><img title="kubernetes" height="25" src="images/kubernetes.svg"></code>
-  <code><img title="Docker" height="25" src="images/Docker.svg"></code>
-  <code><img title="Serverless" height="25" src="images/Serverless.svg"></code>
-  <code><img title="AWS" height="25" src="images/Aws.svg"></code>
-  <code><img title="Azure" height="25" src="images/Azure.svg"></code>
+  <code><img title="Docker" height="25" src="images/docker.svg"></code>
+  <code><img title="Serverless" height="25" src="images/serverless.svg"></code>
+  <code><img title="AWS" height="25" src="images/aws.svg"></code>
+  <code><img title="Azure" height="25" src="images/azure.svg"></code>
 
 </p>
 <hr>
